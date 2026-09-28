@@ -2,17 +2,17 @@
 # Publish this file on your domain (e.g. https://yourdomain.com/.well-known/stellar.toml)
 
 VERSION = "1.0.0"
-NETWORK_PASSPHRASE = "Test SDF Network ; September 2015"
+NETWORK_PASSPHRASE = "testnet"
 
 [[CURRENCIES]]
-code = "TODO"
-issuer = "G...YOUR_ISSUER_PUBLIC_KEY..."
+code = "COYOTEJJ"
+issuer = "GCA7QQ6FRH5AN4RCGIUU7WWBFM4RCLFKZK55K7BUCWNHOL4AA6NXTLUH"
 status = "live"
 display_decimals = 2
-name = "TODO: Asset display name"
-desc = "TODO: Short description of your RWA token"
+name = "COYOTE JJ VS ACME"
+desc = "Token COYOTEJJ vs ACME, en referencia a la pelicula, para pruebas."
 conditions = "TODO: What real-world asset backs this token (property, receivables, etc.)"
 
 [DOCUMENTATION]
-ORG_NAME = "TODO: Your organization legal name"
-ORG_OFFICIAL_EMAIL = "TODO: contact@yourdomain.com"
+ORG_NAME = "D0t Network - Desarrollo de software"
+ORG_OFFICIAL_EMAIL = "jjvos19@gmail.com"
