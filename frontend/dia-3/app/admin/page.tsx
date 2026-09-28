@@ -168,10 +168,10 @@ export default function AdminPage() {
                     address,
                     {
                       name: assetName.trim(),
-                      total_supply: totalSupply,
-                      price_per_unit: pricePerUnit,
-                      payment_token: paymentToken.trim(),
                       paused: false,
+                      payment_token: paymentToken.trim(),
+                      price_per_unit: pricePerUnit,
+                      total_supply: totalSupply,
                     },
                     signTransaction,
                   ),

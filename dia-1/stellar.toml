@@ -11,7 +11,7 @@ status = "live"
 display_decimals = 2
 name = "COYOTE JJ VS ACME"
 desc = "Token COYOTEJJ vs ACME, en referencia a la pelicula, para pruebas."
-conditions = "TODO: What real-world asset backs this token (property, receivables, etc.)"
+conditions = "Token de prueba, no es redimible por dinero FIAT."
 
 [DOCUMENTATION]
 ORG_NAME = "D0t Network - Desarrollo de software"

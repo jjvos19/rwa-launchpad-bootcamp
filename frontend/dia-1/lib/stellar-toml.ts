@@ -22,7 +22,7 @@ export type StellarToml = {
 
 const KNOWN_PLACEHOLDER_VALUES = new Set([
   "TODO",
-  "G...YOUR_ISSUER_PUBLIC_KEY...",
+  "GCA7QQ6FRH5AN4RCGIUU7WWBFM4RCLFKZK55K7BUCWNHOL4AA6NXTLUH",
 ]);
 
 /** True when a stellar.toml string value is still the unfilled template placeholder. */
